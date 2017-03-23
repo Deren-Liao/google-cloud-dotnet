@@ -1,14 +1,4 @@
-﻿using Google.Api;
-using Google.Api.Gax;
-using Google.Api.Gax.Grpc;
-using ProtoWellKnownTypes = Google.Protobuf.WellKnownTypes;
-using Grpc.Core;
-using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Collections.ObjectModel;
-using System.Threading;
-using System.Threading.Tasks;
+﻿using Google.Api.Gax.Grpc;
 
 namespace Google.Cloud.Logging.V2
 {
