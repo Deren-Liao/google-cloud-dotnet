@@ -25,6 +25,10 @@
 
   "frameworks": {
     "net45": {},
-    "netstandard1.5": {}
+    "netstandard1.5": {
+      "buildOptions": {
+        "define": [ "NET_CORE" ]
+      }
+    }
   }
 }

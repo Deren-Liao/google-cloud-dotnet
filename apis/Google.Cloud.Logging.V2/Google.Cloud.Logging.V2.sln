@@ -15,6 +15,8 @@ Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Google.Cloud.Logging.Log4Ne
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Google.Cloud.Logging.V2.Snippets", "Google.Cloud.Logging.V2.Snippets\Google.Cloud.Logging.V2.Snippets.xproj", "{569CFE43-C1A1-4BF4-9D88-C69621195C3A}"
 EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Google.Api.CommonProtos", "..\..\..\deren-gax\src\Google.Api.CommonProtos\Google.Api.CommonProtos.xproj", "{29623F34-B99D-47C2-80C8-1A42C0F25A3B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{569CFE43-C1A1-4BF4-9D88-C69621195C3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{569CFE43-C1A1-4BF4-9D88-C69621195C3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{569CFE43-C1A1-4BF4-9D88-C69621195C3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29623F34-B99D-47C2-80C8-1A42C0F25A3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29623F34-B99D-47C2-80C8-1A42C0F25A3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29623F34-B99D-47C2-80C8-1A42C0F25A3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29623F34-B99D-47C2-80C8-1A42C0F25A3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
